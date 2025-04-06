@@ -518,7 +518,7 @@ const Chapter4 = () => {
             <a href="https://facebook.com" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-primary transition-colors">
               <Facebook className="h-6 w-6" />
             </a>
-            <a href="https://www.instagram.com/_bharath.s?igsh=MXZkOWltZHZybGcxNQ==" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-primary transition-colors">
+            <a href="https://www.instagram.com/__bharath_.s?igsh=MXZkOWltZHZybGcxNQ%3D%3D" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-primary transition-colors">
               <Instagram className="h-6 w-6" />
             </a>
             <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-primary transition-colors">
