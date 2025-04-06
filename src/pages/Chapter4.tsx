@@ -225,7 +225,7 @@ const Chapter4 = () => {
         ]}
         characters={[
           { 
-            name: "souta entrty", 
+            name: "souta entry", 
             position: "left", 
             emotion: "neutral",
             imagePath: "/images/entry.jpeg",
