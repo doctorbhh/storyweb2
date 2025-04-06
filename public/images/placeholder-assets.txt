@@ -1,0 +1,6 @@
+
+This file is a placeholder for the following image assets:
+- shrine-bg.jpg - An image of a traditional Japanese shrine
+- night-sky.jpg - A starry night sky
+- moon.jpg - A full moon against the night sky
+- eclipse.jpg - A solar eclipse
