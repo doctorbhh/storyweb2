@@ -458,7 +458,7 @@ const Index = () => {
             <h3 className="text-xl font-cinzel text-gray-300 mb-8">Navigate Chapters</h3>
             
             <div className="flex flex-wrap justify-center gap-4">
-              <a href="http://localhost:8081" className="inline-block">
+              <a href="https://storyweb-orcin.vercel.app/" className="inline-block">
                 <Button variant="outline" size="default" className="font-cinzel">
                   Chapter 1
                 </Button>
